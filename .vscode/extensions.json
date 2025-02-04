@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "antfu.icons-carbon",
+    "antfu.theme-vitesse",
+    "cweijan.epub-reader",
+    "davidanson.vscode-markdownlint",
+    "GitHub.copilot",
+    "james-yu.latex-workshop",
+    "jebbs.markdown-extended",
+    "redhat.vscode-yaml",
+    "ronnidc.nunjucks",
+    "sissel.shopify-liquid",
+    "tamasfe.even-better-toml"
+  ]
+}
