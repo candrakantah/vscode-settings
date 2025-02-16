@@ -21,7 +21,7 @@
   "editor.unicodeHighlight.ambiguousCharacters": false,
   "editor.unicodeHighlight.nonBasicASCII": false,
   "editor.wordSeparators": "`~!@#%^&*()=+[{]}\\|;:'\",.<>/?",
-  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrap": "on",
   "editor.wordWrapColumn": 80,
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
@@ -50,6 +50,7 @@
   "latex-workshop.formatting.latex": "latexindent",
   "latex-workshop.latex.autoBuild.run": "never",
   "latex-workshop.latex.clean.subfolder.enabled": true,
+  "liquid.engine": "11ty",
   "markdown.preferredMdPathExtensionStyle": "includeExtension",
   "markdown.preview.typographer": true,
   "markdown.updateLinksOnFileMove.enabled": "always",
@@ -92,9 +93,8 @@
   "workbench.startupEditor": "newUntitledFile",
   "workbench.tips.enabled": false,
   "[liquid]": {
-    "editor.defaultFormatter": "sissel.shopify-liquid"
+    "editor.defaultFormatter": "sissel.shopify-liquid",
   },
-  "liquid.engine": "11ty",
   "[markdown]": {
     "files.trimTrailingWhitespace": false
   }
