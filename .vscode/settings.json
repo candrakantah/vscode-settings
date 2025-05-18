@@ -98,9 +98,5 @@
     },
     "[markdown]": {
         "files.trimTrailingWhitespace": false
-    },
-    "github.copilot.enable": {
-        "html": false,
-        "css": false
     }
 }
