@@ -88,7 +88,7 @@
     "window.newWindowProfile": "Default",
     "workbench.colorTheme": "Vitesse Light Soft",
     "workbench.editor.empty.hint": "hidden",
-    "workbench.preferredLightColorTheme": "Vitesse Light",
+    "workbench.preferredLightColorTheme": "Vitesse Light Soft",
     "workbench.preferredDarkColorTheme": "Vitesse Dark",
     "workbench.productIconTheme": "icons-carbon",
     "workbench.startupEditor": "newUntitledFile",
