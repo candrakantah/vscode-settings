@@ -1,15 +1,15 @@
 {
   "recommendations": [
     "antfu.icons-carbon",
-    "antfu.theme-vitesse",
     "davidanson.vscode-markdownlint",
-    "GitHub.copilot",
     "james-yu.latex-workshop",
     "jebbs.markdown-extended",
+    "ms-vscode.live-server",
     "oscarotero.vento-syntax",
     "redhat.vscode-yaml",
     "ronnidc.nunjucks",
     "sissel.shopify-liquid",
+    "subframe7536.theme-maple",
     "tamasfe.even-better-toml"
   ]
 }
